@@ -1,2 +1,2 @@
 # PSAVC
-Psavc assigments
+Assigments for audiovisual and communications signal processing
